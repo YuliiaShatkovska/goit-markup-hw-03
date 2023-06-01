@@ -277,7 +277,6 @@ img {
     0px 2px 1px rgba(46, 47, 66, 0.08);
   border-radius: 0px 0px 4px 4px;
   width: calc((100% - 72px) / 4);
-  padding-bottom: 32px;
 }
 
 .team-title {
